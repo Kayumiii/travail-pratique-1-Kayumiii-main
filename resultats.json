@@ -1,0 +1,113 @@
+[
+    {
+        "datePartie": "2025-02-25 18:52:44",
+        "NomParticipantP1": "youssef",
+        "NomParticipantP2": "simon",
+        "listeReponsesP1": [
+            {
+                "question": "Quel environnement est utilisé pour codé dans le cours?",
+                "reponse": "d",
+                "correct": true
+            },
+            {
+                "question": "Quel est le nom du professeur enseignant le cours?",
+                "reponse": "b",
+                "correct": true
+            },
+            {
+                "question": "Complète le nom du cours : Web et ...",
+                "reponse": "a",
+                "correct": true
+            },
+            {
+                "question": "Combien de temps dure la technique en informatique?",
+                "reponse": "c",
+                "correct": true
+            },
+            {
+                "question": "Dans le cours, on va utiliser quel langage de programmation?",
+                "reponse": "a",
+                "correct": true
+            },
+            {
+                "question": "Quel nano-ordinateur est utilisé dans le cours d'objet connecté?",
+                "reponse": "c",
+                "correct": true
+            },
+            {
+                "question": "À Quel étage se trouve le bloc informatique au Collège Montmorency?",
+                "reponse": "c",
+                "correct": true
+            },
+            {
+                "question": "Complète le nom du cours : Analyse et conception ...",
+                "reponse": "b",
+                "correct": false
+            },
+            {
+                "question": "Dans le cours d'Environnement Client/Serveur, quel langage de programmation est utilisé?",
+                "reponse": "a",
+                "correct": true
+            },
+            {
+                "question": "Quel est le prénom du professeur enseignant le cours?",
+                "reponse": "c",
+                "correct": true
+            }
+        ],
+        "listeReponsesP2": [
+            {
+                "question": "Quel environnement est utilisé pour codé dans le cours?",
+                "reponse": "c",
+                "correct": false
+            },
+            {
+                "question": "Quel est le nom du professeur enseignant le cours?",
+                "reponse": "a",
+                "correct": false
+            },
+            {
+                "question": "Complète le nom du cours : Web et ...",
+                "reponse": "a",
+                "correct": true
+            },
+            {
+                "question": "Combien de temps dure la technique en informatique?",
+                "reponse": "d",
+                "correct": false
+            },
+            {
+                "question": "Dans le cours, on va utiliser quel langage de programmation?",
+                "reponse": "b",
+                "correct": false
+            },
+            {
+                "question": "Quel nano-ordinateur est utilisé dans le cours d'objet connecté?",
+                "reponse": "d",
+                "correct": false
+            },
+            {
+                "question": "À Quel étage se trouve le bloc informatique au Collège Montmorency?",
+                "reponse": "a",
+                "correct": false
+            },
+            {
+                "question": "Complète le nom du cours : Analyse et conception ...",
+                "reponse": "b",
+                "correct": false
+            },
+            {
+                "question": "Dans le cours d'Environnement Client/Serveur, quel langage de programmation est utilisé?",
+                "reponse": "b",
+                "correct": false
+            },
+            {
+                "question": "Quel est le prénom du professeur enseignant le cours?",
+                "reponse": "d",
+                "correct": false
+            }
+        ],
+        "PointageP1": 18,
+        "PointageP2": 2
+    }
+]
